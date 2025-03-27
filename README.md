@@ -1,1 +1,1 @@
-# Predicting_book_sales_trends
+# Predicting Book Sales Trends based on Ukrainian Publishing House
