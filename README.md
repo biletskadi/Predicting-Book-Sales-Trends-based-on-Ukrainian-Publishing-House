@@ -2,9 +2,9 @@
 
 This repository contains the code, data, and methodology behind a two-part analysis of the Ukrainian book publishing industry:
 
-Sales Classification — identifying the success level of books based on their features.
-
 Sales Forecasting — predicting future monthly sales for each book.
+
+Success Rate Classification — identifying the success level of books based on their features.
 
 This work was part of a bachelor thesis project focused on applying machine learning to real-world publishing data provided by a Ukrainian publishing house Svichado.
 
